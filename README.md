@@ -16,7 +16,7 @@ I design and build software that has to work in the real world: school portals u
 ```js
 const mohamed = {
   base: "Alexandria, Egypt",
-  now: ["Undergraduate Teaching Assistant, BATU", "IT Manager and Web Developer, Ahmed Zewail School"],
+  now: ["Teaching Assistant, BATU", "IT Manager and Web Developer, Ahmed Zewail School"],
   focus: ["web systems", "mobile apps", "embedded hardware"],
   languages: ["Arabic", "English"],
 };
