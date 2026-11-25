@@ -25,7 +25,7 @@ const mohamed = {
 <a id="now"></a>
 ## ./currently
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg"><img alt="Currently: Teaching Assistant at BATU, IT Manager and Web Developer at Ahmed Zewail School, B.Sc. IT 2026" src="assets/now-dark.svg" width="880"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/currently-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/currently-light.svg"><img alt="Currently: Teaching Assistant at BATU, IT Manager and Web Developer at Ahmed Zewail School, B.Sc. IT 2026" src="assets/currently-dark.svg" width="880"></picture></p>
 
 <a id="work"></a>
 ## ./selected-work
